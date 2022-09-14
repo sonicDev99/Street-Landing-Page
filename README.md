@@ -16,7 +16,6 @@
 
 ---
 
-<br />
 <a href='#'>
   
 ## 👉  <img src='https://img.shields.io/badge/Live_preview-blue?style=for-the-badge'>
