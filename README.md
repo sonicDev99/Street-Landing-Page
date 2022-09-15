@@ -16,11 +16,7 @@
 
 ---
 
-<a href='https://starlit-mooncake-4dc781.netlify.app/' target="_blank">
-  
 ## 👉 [![homepage](https://img.shields.io/badge/Live_preview-blue?style=for-the-badge)](https://starlit-mooncake-4dc781.netlify.app/ 'Redirect to homepage')
-  
-</a>
 
 ---
 
